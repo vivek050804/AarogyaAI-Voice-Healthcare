@@ -50,6 +50,7 @@ We aim to collaborate with AI developers, NLP engineers, and healthcare advisors
 
 ## Logo and Visual Identity
 AarogyaAI’s logo (attached) reflects community connection, AI integration, and the healing symbol (+) in blue and green.
+<img width="500" height="500" alt="ChatGPT_Image_Jul_26__2025__10_28_22_AM-removebg-preview" src="https://github.com/user-attachments/assets/988383b2-7c8e-4be4-974c-58d8e1ba81d2" />
 
 ## GitHub Purpose
 This repository is currently for documentation, idea presentation, and future project collaboration.
